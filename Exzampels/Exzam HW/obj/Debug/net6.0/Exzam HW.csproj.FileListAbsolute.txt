@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\REPO\Exzampels\Exzam HW\obj\Debug\net6.0\Exzam HW.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\REPO\Exzampels\Exzam HW\obj\Debug\net6.0\Exzam HW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\REPO\Exzampels\Exzam HW\obj\Debug\net6.0\Exzam HW.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\REPO\Exzampels\Exzam HW\obj\Debug\net6.0\Exzam HW.AssemblyInfo.cs
+C:\Users\User\Desktop\REPO\Exzampels\Exzam HW\obj\Debug\net6.0\Exzam HW.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\REPO\Exzampels\Exzam HW\bin\Debug\net6.0\Exzam HW.exe
+C:\Users\User\Desktop\REPO\Exzampels\Exzam HW\bin\Debug\net6.0\Exzam HW.deps.json
+C:\Users\User\Desktop\REPO\Exzampels\Exzam HW\bin\Debug\net6.0\Exzam HW.runtimeconfig.json
+C:\Users\User\Desktop\REPO\Exzampels\Exzam HW\bin\Debug\net6.0\Exzam HW.dll
+C:\Users\User\Desktop\REPO\Exzampels\Exzam HW\bin\Debug\net6.0\Exzam HW.pdb
+C:\Users\User\Desktop\REPO\Exzampels\Exzam HW\obj\Debug\net6.0\Exzam HW.dll
+C:\Users\User\Desktop\REPO\Exzampels\Exzam HW\obj\Debug\net6.0\refint\Exzam HW.dll
+C:\Users\User\Desktop\REPO\Exzampels\Exzam HW\obj\Debug\net6.0\Exzam HW.pdb
+C:\Users\User\Desktop\REPO\Exzampels\Exzam HW\obj\Debug\net6.0\Exzam HW.genruntimeconfig.cache
+C:\Users\User\Desktop\REPO\Exzampels\Exzam HW\obj\Debug\net6.0\ref\Exzam HW.dll
